@@ -31,7 +31,7 @@ pip install requests beautifulsoup4 hazm scikit-learn
 2. Navigate to the project directory
     ```bash
     cd NewsSimilarityChecker
-```
+    ```
 3. Run the script:
    ```bash
    News_Similarity_Checker_app.py
